@@ -41,7 +41,9 @@
 ![k8s](https://img.shields.io/badge/-K8s-333333?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
+## Links
 
+* You can get free logos [here](https://simpleicons.org/) 😎
 
 <!--
 **acabrerisso/acabrerisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
