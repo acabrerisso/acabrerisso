@@ -43,8 +43,8 @@
 
 ## Links
 
-* You can get free emojis [here](https://www.webfx.com/tools/emoji-cheat-sheet/) 😁
-* You can get free logos [here](https://simpleicons.org/) 😎
+- 😎 You can get free emojis [here](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- 😎 You can get free logos [here](https://simpleicons.org/)
 
 <!--
 **acabrerisso/acabrerisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
