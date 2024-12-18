@@ -19,7 +19,6 @@
 **Clouds**
 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=amazonwebservices)
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud)
 
 **Data Tech**
